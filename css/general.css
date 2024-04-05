@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/FontsFree-Net-FontsFree-Net-Proxima-Nova-1.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Averta Demo PE Cutted Demo Regular';
+    src: url('../fonts/FontsFree-Net-AvertaDemoPECuttedDemo-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Averta Demo PE Cutted Demo Regular';
+}
